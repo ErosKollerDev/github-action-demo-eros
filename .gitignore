@@ -1,0 +1,6 @@
+.vscode
+.ide
+.idea
+.idea/*
+/target
+__MACOSX
